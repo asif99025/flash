@@ -9,6 +9,7 @@ public class Test {
 	
 		int i=Integer.valueOf(str);
 		System.out.println(i);
+		//added new line
 		
 
 	}
